@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 - 🎼 Music
 - 🎥 Movie
-- 🎮 Ngaloco
+- 📑 Novel
 
 ### Tools Programming
 - language
