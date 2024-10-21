@@ -33,6 +33,7 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -47,10 +48,16 @@ Welcome to my GitHub profile!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffimustari&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
 </p>
 
-  <br>
 
-  ## 🌐 Contact me
 
-   <a href="https://www.instagram.com/mramdhan_dani/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+
+<p align="center">
+  <img src="https://media.tenor.com/hqM4yHERiZo.gif" alt="Kita Ikuyo GIF" />
+</p>
+
+
+## 🌐 Contact me
+
+<a href="https://www.instagram.com/mramdhan_dani/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
