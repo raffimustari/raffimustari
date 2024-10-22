@@ -53,9 +53,7 @@ Welcome to my GitHub profile!
 
 
 
-<p align="center">
-  <img src="https://media.tenor.com/hqM4yHERiZo.gif" alt="Kita Ikuyo GIF" />
-</p>
+
 
 
 ## 🌐 Contact me
