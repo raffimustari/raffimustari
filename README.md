@@ -1,9 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" >
-  <img src="https://readme-typing-svg.demolab.com?font=comic+sans&size=40&duration=1000&pause=1000&color=494CFF&width=435&lines=MuhammadRaffiMustari">
-</h1>
-
 Welcome to my GitHub profile!
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### About Me
 
