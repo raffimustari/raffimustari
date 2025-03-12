@@ -42,19 +42,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffimustari&show_icons=true&theme=radical&hide_border=true" alt="raffimustari's GitHub stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffimustari&theme=radical&hide_border=true" alt="raffimustari's GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffimustari&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
-</p>
 
 
 
